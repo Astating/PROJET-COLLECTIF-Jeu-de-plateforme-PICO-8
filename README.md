@@ -4,7 +4,7 @@ Développé dans le cadre d'un travail de groupe sur 15 jours, ce jeu est une pr
 
 Le personnage est un prisonnier qui cherche à s'enfuir, évitant les différents pièges de cette prison ainsi que les gardes.
 
-Le jeu est jouable à l'adresse suivante : https://musing-bartik-26bf28.netlify.app/
+Le jeu est jouable à l'adresse suivante : https://atsteamacc-prisongame.netlify.app/
 Il est aussi possible d'y jouer sur mobile via le navigateur.
 
 Crédit musique : Robby Duguay.
