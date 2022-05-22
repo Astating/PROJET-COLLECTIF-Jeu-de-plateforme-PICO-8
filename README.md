@@ -9,3 +9,5 @@ Il est aussi possible d'y jouer sur mobile via le navigateur.
 
 Crédit musique : Robby Duguay.
 Développeurs : Constant Guilbert, Arthur Guisne et Céline Barbe.
+
+<img alt="game preview" src="preview.gif"/>
